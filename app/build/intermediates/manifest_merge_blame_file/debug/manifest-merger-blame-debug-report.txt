@@ -1,0 +1,285 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.Avantrz"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:7:5-65
+11-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:7:22-62
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:8:5-77
+12-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:8:22-74
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:9:5-81
+13-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:23:5-67
+14-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:23:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:24:5-79
+15-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:24:22-76
+16
+17    <application
+17-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:11:5-68:19
+18        android:name="com.example.Avantrz.ApplicationClass"
+18-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:12:9-60
+19        android:allowBackup="true"
+19-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\241ed957067c6e64de29ec08090d8118\core-1.1.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:14:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:15:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:16:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:17:9-35
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:18:9-40
+27        <activity android:name="com.example.Avantrz.UserProfile" />
+27-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:20:9-77
+27-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:20:19-65
+28        <activity android:name="com.example.Avantrz.AboutUs" />
+28-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:22:9-64
+28-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:22:19-61
+29        <activity android:name="com.example.Avantrz.OnBoarding" />
+29-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:24:9-67
+29-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:24:19-64
+30        <activity android:name="com.example.Avantrz.PlayerActivity" />
+30-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:26:9-71
+30-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:26:19-68
+31        <activity
+31-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:28:9-31:51
+32            android:name="com.example.Avantrz.LibrarySongs"
+32-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:29:13-60
+33            android:label="Tu musica"
+33-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:30:13-38
+34            android:theme="@style/LibraryTheme" />
+34-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:31:13-48
+35        <activity android:name="com.example.Avantrz.Dashboard" />
+35-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:33:9-66
+35-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:33:19-63
+36        <activity android:name="com.example.Avantrz.SignUp" />
+36-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:35:9-63
+36-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:35:19-60
+37        <activity android:name="com.example.Avantrz.Login" />
+37-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:37:9-62
+37-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:37:19-59
+38        <activity
+38-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:39:9-45:20
+39            android:name="com.example.Avantrz.MainActivity"
+39-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:39:19-66
+40            android:exported="true" >
+40-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:40:13-36
+41            <intent-filter>
+41-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:41:13-44:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:42:17-69
+42-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:42:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:43:17-77
+44-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:43:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <meta-data
+48-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:47:9-49:57
+49            android:name="preloaded_fonts"
+49-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:48:13-43
+50            android:resource="@array/preloaded_fonts" />
+50-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:49:13-54
+51
+52        <service
+52-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:51:9-53:38
+53            android:name="com.example.Avantrz.MusicService"
+53-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:52:13-60
+54            android:enabled="true" />
+54-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:53:13-35
+55
+56        <receiver
+56-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:55:9-66:20
+57            android:name="com.example.Avantrz.NotificationReciever"
+57-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:56:13-68
+58            android:enabled="true"
+58-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:57:13-35
+59            android:exported="false" >
+59-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:58:13-37
+60            <intent-filter>
+60-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:59:13-65:29
+61                <action android:name="actionprevious" />
+61-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:60:17-57
+61-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:60:25-54
+62                <action android:name="actionnext" />
+62-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:61:17-53
+62-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:61:25-50
+63                <action android:name="actionplay" />
+63-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:62:17-53
+63-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:62:25-50
+64                <action android:name="actiondelete" />
+64-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:63:17-55
+64-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:63:25-52
+65                <action android:name="android.intent.action.MEDIA_BUTTON" />
+65-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:64:17-77
+65-->C:\Users\bryan\OneDrive\Escritorio\AvantRaze reproductor de musica\app\src\main\AndroidManifest.xml:64:25-74
+66            </intent-filter>
+67        </receiver>
+68
+69        <activity
+69-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:27:9-44:20
+70            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+70-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:28:13-80
+71            android:excludeFromRecents="true"
+71-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:29:13-46
+72            android:exported="true"
+72-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:30:13-36
+73            android:launchMode="singleTask"
+73-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:31:13-44
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+74-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:32:13-72
+75            <intent-filter>
+75-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:33:13-43:29
+76                <action android:name="android.intent.action.VIEW" />
+76-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:17-69
+76-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:25-66
+77
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:17-76
+78-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:27-73
+79                <category android:name="android.intent.category.BROWSABLE" />
+79-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:17-78
+79-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:27-75
+80
+81                <data
+81-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:39:17-42:51
+82                    android:host="firebase.auth"
+82-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:40:21-49
+83                    android:path="/"
+83-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:41:21-37
+84                    android:scheme="genericidp" />
+84-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:42:21-48
+85            </intent-filter>
+86        </activity>
+87        <activity
+87-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:45:9-62:20
+88            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+88-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:46:13-79
+89            android:excludeFromRecents="true"
+89-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:47:13-46
+90            android:exported="true"
+90-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:48:13-36
+91            android:launchMode="singleTask"
+91-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:49:13-44
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+92-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:50:13-72
+93            <intent-filter>
+93-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:51:13-61:29
+94                <action android:name="android.intent.action.VIEW" />
+94-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:17-69
+94-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:25-66
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:17-76
+96-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:27-73
+97                <category android:name="android.intent.category.BROWSABLE" />
+97-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:17-78
+97-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:27-75
+98
+99                <data
+99-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:39:17-42:51
+100                    android:host="firebase.auth"
+100-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:40:21-49
+101                    android:path="/"
+101-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:41:21-37
+102                    android:scheme="recaptcha" />
+102-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:42:21-48
+103            </intent-filter>
+104        </activity>
+105
+106        <service
+106-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:64:9-73:19
+107            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+107-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:65:13-101
+108            android:enabled="true"
+108-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:66:13-35
+109            android:exported="false" >
+109-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:67:13-37
+110            <intent-filter>
+110-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:68:13-72:29
+111                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+111-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:69:17-89
+111-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:69:25-86
+112
+113                <category android:name="android.intent.category.DEFAULT" />
+113-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:17-76
+113-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:27-73
+114            </intent-filter>
+115        </service>
+116        <service
+116-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:74:9-80:19
+117            android:name="com.google.firebase.components.ComponentDiscoveryService"
+117-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:75:13-84
+118            android:directBootAware="true"
+118-->[com.google.firebase:firebase-common:19.4.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5500978cd02395a8bf5bbed55985b128\jetified-firebase-common-19.4.0\AndroidManifest.xml:35:13-43
+119            android:exported="false" >
+119-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:76:13-37
+120            <meta-data
+120-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:77:13-79:85
+121                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+121-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:78:17-109
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:79:17-82
+123            <meta-data
+123-->[com.google.firebase:firebase-database:19.5.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\fc103de11ba45e8031c7a2ff05cc918b\jetified-firebase-database-19.5.1\AndroidManifest.xml:32:13-34:85
+124                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+124-->[com.google.firebase:firebase-database:19.5.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\fc103de11ba45e8031c7a2ff05cc918b\jetified-firebase-database-19.5.1\AndroidManifest.xml:33:17-109
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.firebase:firebase-database:19.5.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\fc103de11ba45e8031c7a2ff05cc918b\jetified-firebase-database-19.5.1\AndroidManifest.xml:34:17-82
+126            <meta-data
+126-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:20:13-22:85
+127                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+127-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
+128                android:value="com.google.firebase.components.ComponentRegistrar" />
+128-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
+129        </service>
+130
+131        <activity
+131-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+132            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+132-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+133            android:exported="false"
+133-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+134-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+135
+136        <provider
+136-->[com.google.firebase:firebase-common:19.4.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5500978cd02395a8bf5bbed55985b128\jetified-firebase-common-19.4.0\AndroidManifest.xml:26:9-31:39
+137            android:name="com.google.firebase.provider.FirebaseInitProvider"
+137-->[com.google.firebase:firebase-common:19.4.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5500978cd02395a8bf5bbed55985b128\jetified-firebase-common-19.4.0\AndroidManifest.xml:27:13-77
+138            android:authorities="com.example.Avantrz.firebaseinitprovider"
+138-->[com.google.firebase:firebase-common:19.4.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5500978cd02395a8bf5bbed55985b128\jetified-firebase-common-19.4.0\AndroidManifest.xml:28:13-72
+139            android:directBootAware="true"
+139-->[com.google.firebase:firebase-common:19.4.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5500978cd02395a8bf5bbed55985b128\jetified-firebase-common-19.4.0\AndroidManifest.xml:29:13-43
+140            android:exported="false"
+140-->[com.google.firebase:firebase-common:19.4.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5500978cd02395a8bf5bbed55985b128\jetified-firebase-common-19.4.0\AndroidManifest.xml:30:13-37
+141            android:initOrder="100" />
+141-->[com.google.firebase:firebase-common:19.4.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5500978cd02395a8bf5bbed55985b128\jetified-firebase-common-19.4.0\AndroidManifest.xml:31:13-36
+142
+143        <meta-data
+143-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c77d530a894c9cdc1e02ae73843c5ba2\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+144            android:name="com.google.android.gms.version"
+144-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c77d530a894c9cdc1e02ae73843c5ba2\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+145            android:value="@integer/google_play_services_version" />
+145-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c77d530a894c9cdc1e02ae73843c5ba2\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+146    </application>
+147
+148</manifest>

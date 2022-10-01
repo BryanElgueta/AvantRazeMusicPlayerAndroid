@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">Avant Raze Music player</string>
+    <string name="slogan">No mas limites</string>
+
+
+    <!-- Titulos-->
+    <string name="first_slide_title">No ADs</string>
+    <string name="second_slide_title">Escucha Offline</string>
+    <string name="third_slide_title">Completamente gratis</string>
+    <string name="fourth_slide_title">Siéntate y disfruta</string>
+
+    <!-- Descripciones-->
+    <string name="first_slide_desc">Sin interrupciones. Reproduce la música que amas, sin publicidad.</string>
+    <string name="second_slide_desc">¿Sin conexión a Internet? Reproduce tu colección de música sin conexión.</string>
+    <string name="third_slide_desc">No se necesitas membresía premium. ¡Obten acceso a todas las funciones completamente gratis!</string>
+    <string name="fourth_slide_desc">Nos encargaremos de todo por ti. Siempre que tengas la aplicación en tu bolsillo cuando no tengas que preocuparte.</string>
+
+    <!-- Botones-->
+    <string name="skip">Saltar</string>
+    <string name="next">Siguiente</string>
+    <string name="lets_get_started">Empecemos!</string>
+
+
+    <!-- Categorias-->
+    <string name="recently_played">Escuchados recientemente</string>
+    <string name="liked_songs">Tus me gusta</string>
+    <string name="most_played">Mas escuchado</string>
+    <string name="your_library">Tu Biblioteca</string>
+
+    <!-- Titulos y descripciones-->
+    <string name="songs_list_to_listen">Nuestra coleccion</string>
+    <string name="songs_list_to_listen_desc">¡Explora nuestra colección de artistas, sus canciones y encuentra la música adecuada para ti!</string>
+    <string name="top_genre">Top generos</string>
+    <string name="categories">Categorias</string>
+    <string name="view_all">Ver todo</string>
+    <string name="search_text">Busca tu cancion</string>
+
+    <!-- Artistas-->
+    <string name="alanwalker_description"> DJ, compositor y productor discográfico noruego-británico..</string>
+    <string name="marshmello_description">conocido artísticamente como Marshmello, es un productor y DJ estadounidense de future bass, electrónica y electrohouse..</string>
+    <string name="goku_drip_description">goku drip</string>
+    <!-- Strings para el navigation view-->
+    <string name="home">Inicio</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- String para el About Us-->
+    <string name="aboutusdesc">Aplicacion Hecha por Brayan Elgueta.</string>
+    <string name="feedbackdesc">Cualquier duda o consulta es bienvenida!</string>
+
+</resources>

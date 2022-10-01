@@ -1,0 +1,107 @@
+com/example/Avantrz/ui/slideshow/SlideshowFragment.java
+ com.example.Avantrz.ui.slideshow.SlideshowFragment
+ com.example.Avantrz.ui.slideshow.SlideshowFragment$1
+com/example/Avantrz/HomeAdapter/TopGenreHelperClass.java
+ com.example.Avantrz.HomeAdapter.TopGenreHelperClass
+com/example/Avantrz/SongsFragment.java
+ com.example.Avantrz.SongsFragment
+com/example/Avantrz/ui/home/HomeViewModel.java
+ com.example.Avantrz.ui.home.HomeViewModel
+com/example/Avantrz/AboutUs.java
+ com.example.Avantrz.AboutUs
+com/example/Avantrz/HomeAdapter/SliderAdapter.java
+ com.example.Avantrz.HomeAdapter.SliderAdapter
+com/example/Avantrz/HomeAdapter/TopGenreAdapter.java
+ com.example.Avantrz.HomeAdapter.TopGenreAdapter
+ com.example.Avantrz.HomeAdapter.TopGenreAdapter$GenresViewHolder
+com/example/Avantrz/LibrarySongs.java
+ com.example.Avantrz.LibrarySongs
+ com.example.Avantrz.LibrarySongs$ViewPagerAdapter
+com/example/Avantrz/ApplicationClass.java
+ com.example.Avantrz.ApplicationClass
+com/example/Avantrz/HomeAdapter/ArtistHelperClass.java
+ com.example.Avantrz.HomeAdapter.ArtistHelperClass
+com/example/Avantrz/BuildConfig.java
+ com.example.Avantrz.BuildConfig
+com/example/Avantrz/MusicService.java
+ com.example.Avantrz.MusicService
+ com.example.Avantrz.MusicService$MyBinder
+com/example/Avantrz/ui/gallery/GalleryFragment.java
+ com.example.Avantrz.ui.gallery.GalleryFragment
+ com.example.Avantrz.ui.gallery.GalleryFragment$1
+com/example/Avantrz/NotificationReciever.java
+ com.example.Avantrz.NotificationReciever
+com/example/Avantrz/MusicAdapter.java
+ com.example.Avantrz.MusicAdapter
+ com.example.Avantrz.MusicAdapter$1
+ com.example.Avantrz.MusicAdapter$2
+ com.example.Avantrz.MusicAdapter$2$1
+ com.example.Avantrz.MusicAdapter$MyViewHolder
+com/example/Avantrz/HomeAdapter/ArtistAdapter.java
+ com.example.Avantrz.HomeAdapter.ArtistAdapter
+ com.example.Avantrz.HomeAdapter.ArtistAdapter$ArtistViewHolder
+com/example/Avantrz/HomeAdapter/CategoriesAdapter.java
+ com.example.Avantrz.HomeAdapter.CategoriesAdapter
+ com.example.Avantrz.HomeAdapter.CategoriesAdapter$CategoriesViewHolder
+com/example/Avantrz/ui/gallery/GalleryViewModel.java
+ com.example.Avantrz.ui.gallery.GalleryViewModel
+com/example/Avantrz/UserHelperClass.java
+ com.example.Avantrz.UserHelperClass
+com/example/Avantrz/ui/home/HomeFragment.java
+ com.example.Avantrz.ui.home.HomeFragment
+ com.example.Avantrz.ui.home.HomeFragment$1
+com/example/Avantrz/MusicFiles.java
+ com.example.Avantrz.MusicFiles
+com/example/Avantrz/ActionPlaying.java
+ com.example.Avantrz.ActionPlaying
+com/example/Avantrz/HomeAdapter/CategoriesHelperClass.java
+ com.example.Avantrz.HomeAdapter.CategoriesHelperClass
+com/example/Avantrz/ui/slideshow/SlideshowViewModel.java
+ com.example.Avantrz.ui.slideshow.SlideshowViewModel
+com/example/Avantrz/PlayerActivity.java
+ com.example.Avantrz.PlayerActivity
+ com.example.Avantrz.PlayerActivity$1
+ com.example.Avantrz.PlayerActivity$10
+ com.example.Avantrz.PlayerActivity$11
+ com.example.Avantrz.PlayerActivity$12
+ com.example.Avantrz.PlayerActivity$12$1
+ com.example.Avantrz.PlayerActivity$13
+ com.example.Avantrz.PlayerActivity$14
+ com.example.Avantrz.PlayerActivity$15
+ com.example.Avantrz.PlayerActivity$15$1
+ com.example.Avantrz.PlayerActivity$2
+ com.example.Avantrz.PlayerActivity$3
+ com.example.Avantrz.PlayerActivity$4
+ com.example.Avantrz.PlayerActivity$5
+ com.example.Avantrz.PlayerActivity$6
+ com.example.Avantrz.PlayerActivity$6$1
+ com.example.Avantrz.PlayerActivity$7
+ com.example.Avantrz.PlayerActivity$8
+ com.example.Avantrz.PlayerActivity$9
+ com.example.Avantrz.PlayerActivity$9$1
+com/example/Avantrz/OnBoarding.java
+ com.example.Avantrz.OnBoarding
+ com.example.Avantrz.OnBoarding$1
+ com.example.Avantrz.OnBoarding$2
+com/example/Avantrz/Dashboard.java
+ com.example.Avantrz.Dashboard
+ com.example.Avantrz.Dashboard$1
+ com.example.Avantrz.Dashboard$2
+ com.example.Avantrz.Dashboard$3
+com/example/Avantrz/UserProfile.java
+ com.example.Avantrz.UserProfile
+ com.example.Avantrz.UserProfile$1
+ com.example.Avantrz.UserProfile$2
+com/example/Avantrz/SignUp.java
+ com.example.Avantrz.SignUp
+ com.example.Avantrz.SignUp$1
+ com.example.Avantrz.SignUp$2
+com/example/Avantrz/MainActivity.java
+ com.example.Avantrz.MainActivity
+ com.example.Avantrz.MainActivity$1
+com/example/Avantrz/Login.java
+ com.example.Avantrz.Login
+ com.example.Avantrz.Login$1
+ com.example.Avantrz.Login$2
+ com.example.Avantrz.Login$3
+ com.example.Avantrz.Login$4

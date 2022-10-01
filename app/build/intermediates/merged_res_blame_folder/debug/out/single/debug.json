@@ -1,0 +1,1594 @@
+[
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_menu_image1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\menu_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_library_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\library_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_image1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\menu_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_skip_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_alan_walker.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\alan_walker.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_skip_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_library_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\library_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shuffle_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shuffle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chevron_left.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chevron_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_no_ads.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\no_ads.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_dashboard.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\menu_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profilepic.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profilepic.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_goku_drip.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\goku_drip.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_camera_icon.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\camera_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_instrumental_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\instrumental_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_categories_carddesign.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\categories_carddesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chevron_left.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chevron_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_available_offline.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\available_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_app.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_dashboard.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\menu_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ps_user.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\ps_user.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_image1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\menu_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_romance_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\romance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_romance_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\romance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chevron_left.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chevron_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ps_password.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\ps_password.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_library_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\library_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_romance_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\romance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_repeat_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_repeat_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pause.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shuffle_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shuffle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chevron_left.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chevron_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_repeat_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shuffle_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shuffle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_repeat_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_icon1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_marshmello.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\marshmello.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_free.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\free.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shuffle_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shuffle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_liked_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\liked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\font\\bungee.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_image1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_skip_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_available_offline.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\available_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_skip_previous.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_icon1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_songs.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\fragment_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ps_user.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\ps_user.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bollywood_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\bollywood_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pop_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\pop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_ps_phonenumber.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\ps_phonenumber.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_pop_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\pop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ps_phonenumber.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\ps_phonenumber.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bollywood_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\bollywood_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_workout_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\workout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recentlyplayed_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\recentlyplayed_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_rap_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\rap_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shuffle_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shuffle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rap_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\rap_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_image1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\menu_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_ps_password.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\ps_password.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sit_back_and_enjoy.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\sit_back_and_enjoy.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edm_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\edm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ps_user.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\ps_user.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_search_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_romance_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\romance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_menu_logo_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ps_email.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\ps_email.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shuffle_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shuffle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_dashboard.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\menu_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pause.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edm_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\edm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_dashboard.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\menu_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_image.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\menu_image.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_music_items.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\music_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_party_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\party_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_workout_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\workout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ps_password.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\ps_password.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_image.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\menu_image.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_image.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_image.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_menu_dashboard.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\menu_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logout.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skip_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\menu_search.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_repeat_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_marshmello.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\marshmello.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_logout.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_logo_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_instrumental_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\instrumental_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_goku_drip.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\goku_drip.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_most_played.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\most_played.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_instrumental_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\instrumental_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_play.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_about_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_repeat_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_repeat_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_instrumental_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\instrumental_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_recentlyplayed_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\recentlyplayed_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_header.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_marshmello.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\marshmello.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_ads.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\no_ads.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edm_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\edm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_next.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_recentlyplayed_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\recentlyplayed_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_skip_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_artists_card_design.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\artists_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_liked_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\liked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_topgenres_carddesign.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\topgenres_carddesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_marshmello.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\marshmello.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_icon1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\menu_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sit_back_and_enjoy.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\sit_back_and_enjoy.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ps_phonenumber.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\ps_phonenumber.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_more.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_romance_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\romance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_on_boarding.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_on_boarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shuffle_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shuffle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_sit_back_and_enjoy.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\sit_back_and_enjoy.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_skip_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_app.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pop_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\pop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ps_user.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\ps_user.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_goku_drip.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\goku_drip.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rap_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\rap_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_repeat_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_repeat_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_repeat_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_animation.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\anim\\slide_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_workout_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\workout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_party_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\party_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_repeat_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_party_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\party_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_alan_walker.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\alan_walker.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edm_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\edm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_alan_walker.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\alan_walker.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sit_back_and_enjoy.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\sit_back_and_enjoy.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_alan_walker.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\alan_walker.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_free.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\free.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_app.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_image.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\menu_image.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_marshmello.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\marshmello.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_workout_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\workout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_repeat_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_repeat_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_repeat_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_repeat_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_instrumental_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\instrumental_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_alan_walker.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\alan_walker.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_camera_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_image1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\menu_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_more.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card4.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable\\card4.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_liked_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\liked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_logo_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_skip_icon.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\skip_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pop_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\pop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_repeat_on.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_repeat_on.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bollywood_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\bollywood_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_available_offline.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\available_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_free.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\free.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rap_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\rap_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_logo_app.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ps_email.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\ps_email.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shuffle_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shuffle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_workout_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\workout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_most_played.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\most_played.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_marshmello.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\marshmello.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chevron_left.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chevron_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_app.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_alan_walker.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\alan_walker.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shuffle_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shuffle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ps_phonenumber.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\ps_phonenumber.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shuffle_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shuffle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ps_phonenumber.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\ps_phonenumber.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_slides_layout.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\slides_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profilepic.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_available_offline.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\available_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_more.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_most_played.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\most_played.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_image.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\menu_image.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_free.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\free.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_play.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_play.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_library_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\library_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_profilepic.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_menu_image.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\menu_image.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ps_phonenumber.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\ps_phonenumber.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_goku_drip.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\goku_drip.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ps_email.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\ps_email.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_free.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\free.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_ps_user.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\ps_user.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_available_offline.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\available_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_skip_next.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_no_ads.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\no_ads.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_app.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_party_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\party_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shuffle_on.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shuffle_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_edm_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\edm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pop_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\pop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ps_user.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\ps_user.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pop_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\pop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_repeat_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ps_password.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\ps_password.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chevron_left.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chevron_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_no_ads.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\no_ads.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_romance_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\romance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profilepic.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_share_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_party_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\party_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ps_email.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\ps_email.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shuffle_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shuffle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chevron_left.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chevron_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_dashboard.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ps_password.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\ps_password.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rap_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\rap_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card1.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable\\card1.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_bollywood_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\bollywood_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_party_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\party_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_about_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_liked_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\liked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bg.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable\\main_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_no_ads.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\no_ads.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_library_songs.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_library_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_no_ads.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\no_ads.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_recentlyplayed_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\recentlyplayed_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shuffle_off.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shuffle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_most_played.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\most_played.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_repeat_on.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_repeat_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_logo_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_recentlyplayed_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\recentlyplayed_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card2.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable\\card2.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rap_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\rap_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ps_password.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\ps_password.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_logo_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_icon1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\menu_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bollywood_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\bollywood_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_liked_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\liked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_recentlyplayed_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\recentlyplayed_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_goku_drip.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\goku_drip.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_available_offline.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\available_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card3.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable\\card3.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_icon1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\menu_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_most_played.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\most_played.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_instrumental_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\instrumental_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_edm_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\edm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\menu\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shuffle_off.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shuffle_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\anim_no_animation.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\anim\\no_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bollywood_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\bollywood_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\font_almendra.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\font\\almendra.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profilepic.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\font_acme.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_skip_next.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_library_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\library_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_menu_icon1.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\menu_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ps_email.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\ps_email.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_ps_email.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\ps_email.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sit_back_and_enjoy.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\sit_back_and_enjoy.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_logo_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxhdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sit_back_and_enjoy.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\sit_back_and_enjoy.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_most_played.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\most_played.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_workout_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\workout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_more.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_liked_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xxxhdpi\\liked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_free.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-hdpi\\free.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_repeat_off.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_repeat_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_about_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-tvdpi\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_library_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\drawable-xhdpi\\library_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\font_antic.xml.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\src\\main\\res\\font\\antic.xml"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\bryan\\OneDrive\\Escritorio\\AvantRaze reproductor de musica\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\skip_icon.png"
+    }
+]

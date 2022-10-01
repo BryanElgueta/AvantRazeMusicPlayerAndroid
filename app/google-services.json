@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775511542359",
+    "firebase_url": "https://avant-raze-music-player-db-default-rtdb.firebaseio.com",
+    "project_id": "avant-raze-music-player-db",
+    "storage_bucket": "avant-raze-music-player-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775511542359:android:ce75cda93d4c9f91143112",
+        "android_client_info": {
+          "package_name": "com.example.Avantrz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775511542359-s1gg25dp22co8aiikv51dngomglrjttn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40_x8BPtM_q2aY_pKHtYDqQE9SIci6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775511542359-s1gg25dp22co8aiikv51dngomglrjttn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
